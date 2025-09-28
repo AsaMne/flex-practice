@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+.same{
+    width: 50%;
+}
+.container{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.reaction{
+    display: flex;
+    justify-content: space-around;
+}
